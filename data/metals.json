@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Aluminum 6061 (T6)",
+        "composition": {"Al": 97.9, "Mg": 1.0, "Si": 0.6, "Cu": 0.28, "Cr": 0.2},
+        "mp": 652
+    },
+    {
+        "name": "Aluminum 5052",
+        "composition": {"Al": 96.0, "Mg": 2.5, "Cr": 0.25, "Fe": 0.4, "Si": 0.25},
+        "mp": 649
+    },
+    {
+        "name": "Aluminum 6A01",
+        "composition": {"Al": 98.4, "Si": 0.6, "Mg": 0.5, "Mn": 0.5},
+        "mp": 650
+    },
+    {
+        "name": "Steel 304 (Stainless)",
+        "composition": {"Fe": 69.0, "Cr": 19.0, "Ni": 9.25, "Mn": 2.0, "Si": 0.75},
+        "mp": 1450
+    },
+    {
+        "name": "Steel 301L (Stainless)",
+        "composition": {"Fe": 72.0, "Cr": 17.0, "Ni": 7.0, "Mn": 2.0, "Si": 1.0},
+        "mp": 1420
+    },
+    {
+        "name": "Steel 316 (Stainless)",
+        "composition": {"Fe": 65.5, "Cr": 17.0, "Ni": 12.0, "Mo": 2.5, "Mn": 2.0},
+        "mp": 1398
+    },
+    {
+        "name": "Steel DP590 (Dual Phase)",
+        "composition": {"Fe": 97.5, "Mn": 1.8, "Si": 0.5, "C": 0.15},
+        "mp": 1500
+    },
+    {
+        "name": "Steel Q355 (Carbon)",
+        "composition": {"Fe": 98.0, "Mn": 1.5, "Si": 0.3, "C": 0.2},
+        "mp": 1515
+    },
+    {
+        "name": "Steel SPFC1180 (AHSS)",
+        "composition": {"Fe": 96.5, "Mn": 2.5, "Si": 0.5, "C": 0.2, "Cr": 0.3},
+        "mp": 1500
+    },
+    {
+        "name": "Steel Low Carbon (Mild)",
+        "composition": {"Fe": 99.0, "Mn": 0.5, "C": 0.15, "Si": 0.1},
+        "mp": 1500
+    },
+    {
+        "name": "Copper C11000",
+        "composition": {"Cu": 99.9},
+        "mp": 1085
+    },
+    {
+        "name": "Aluminum 6082 (T6)",
+        "composition": {"Al": 96.2, "Si": 1.1, "Mg": 0.9, "Mn": 0.7, "Fe": 0.5, "Cr": 0.25, "Zn": 0.2, "Cu": 0.1, "Ti": 0.05},
+        "mp": 650
+    },
+    {
+        "name": "Steel QP980",
+        "composition": {"Fe": 96.6, "Mn": 1.5, "Si": 1.5, "C": 0.2, "Cr": 0.2},
+        "mp": 1500
+    },
+    {
+        "name": "Steel DP980",
+        "composition": {"Fe": 97.4, "Mn": 1.5, "Si": 0.5, "C": 0.15, "Cr": 0.45},
+        "mp": 1500
+    }
+]

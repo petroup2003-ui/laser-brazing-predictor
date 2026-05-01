@@ -1,0 +1,13 @@
+{
+    "Al": {"mp": 660, "cte": 23.1e-6, "density": 2.70},
+    "Fe": {"mp": 1538, "cte": 11.8e-6, "density": 7.87},
+    "Si": {"mp": 1414, "cte": 3.0e-6, "density": 2.33},
+    "Mg": {"mp": 650, "cte": 24.8e-6, "density": 1.74},
+    "Cu": {"mp": 1085, "cte": 16.5e-6, "density": 8.96},
+    "Zn": {"mp": 419, "cte": 30.2e-6, "density": 7.14},
+    "Cr": {"mp": 1907, "cte": 4.9e-6, "density": 7.19},
+    "Ni": {"mp": 1455, "cte": 13.4e-6, "density": 8.90},
+    "Mn": {"mp": 1246, "cte": 21.7e-6, "density": 7.21},
+    "C": {"mp": 3550, "cte": 7.1e-6, "density": 2.26},
+    "Mo": {"mp": 2623, "cte": 4.8e-6, "density": 10.28}
+}

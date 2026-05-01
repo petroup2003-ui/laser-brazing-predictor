@@ -1,0 +1,47 @@
+[
+    {
+        "name": "AlSi12 (4047)",
+        "composition": {"Al": 88.0, "Si": 12.0},
+        "mp": 577
+    },
+    {
+        "name": "AlSi5 (4043)",
+        "composition": {"Al": 95.0, "Si": 5.0},
+        "mp": 632
+    },
+    {
+        "name": "CuSi3",
+        "composition": {"Cu": 97.0, "Si": 3.0},
+        "mp": 1025
+    },
+    {
+        "name": "Pure Aluminum (1100)",
+        "composition": {"Al": 99.0, "Si": 0.5, "Fe": 0.5},
+        "mp": 660
+    },
+    {
+        "name": "ZnAl15",
+        "composition": {"Zn": 85.0, "Al": 15.0},
+        "mp": 382
+    },
+    {
+        "name": "Pure Silicon",
+        "composition": {"Si": 100.0},
+        "mp": 1414
+    },
+    {
+        "name": "ER5356 (AlMg5)",
+        "composition": {"Al": 94.9, "Mg": 5.0, "Mn": 0.1, "Cr": 0.1},
+        "mp": 635
+    },
+    {
+        "name": "ER308LSi",
+        "composition": {"Fe": 66.8, "Cr": 20.0, "Ni": 10.0, "Mn": 1.8, "Si": 0.8, "C": 0.03, "Cu": 0.5, "Mo": 0.1},
+        "mp": 1400
+    },
+    {
+        "name": "ER5183 (AlMgMn)",
+        "composition": {"Al": 94.2, "Mg": 4.9, "Mn": 0.75, "Cr": 0.1, "Fe": 0.05},
+        "mp": 638
+    }
+]
